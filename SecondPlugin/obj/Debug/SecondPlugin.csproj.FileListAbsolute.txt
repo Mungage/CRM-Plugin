@@ -1,0 +1,11 @@
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\obj\Debug\SecondPlugin.csprojAssemblyReference.cache
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\obj\Debug\SecondPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\bin\Debug\SecondPlugin.dll
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\bin\Debug\SecondPlugin.pdb
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\obj\Debug\SecondPlugin.csproj.CopyComplete
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\obj\Debug\SecondPlugin.dll
+C:\Users\Mungage\Desktop\Development\SecondPlugin\SecondPlugin\obj\Debug\SecondPlugin.pdb
